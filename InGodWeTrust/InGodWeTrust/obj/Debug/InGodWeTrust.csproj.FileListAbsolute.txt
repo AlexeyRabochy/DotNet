@@ -1,0 +1,8 @@
+c:\users\juegest\documents\visual studio 2015\Projects\InGodWeTrust\InGodWeTrust\bin\Debug\InGodWeTrust.exe.config
+c:\users\juegest\documents\visual studio 2015\Projects\InGodWeTrust\InGodWeTrust\bin\Debug\InGodWeTrust.exe
+c:\users\juegest\documents\visual studio 2015\Projects\InGodWeTrust\InGodWeTrust\bin\Debug\InGodWeTrust.pdb
+c:\users\juegest\documents\visual studio 2015\Projects\InGodWeTrust\InGodWeTrust\obj\Debug\InGodWeTrust.csprojResolveAssemblyReference.cache
+c:\users\juegest\documents\visual studio 2015\Projects\InGodWeTrust\InGodWeTrust\obj\Debug\InGodWeTrust.Properties.Resources.resources
+c:\users\juegest\documents\visual studio 2015\Projects\InGodWeTrust\InGodWeTrust\obj\Debug\InGodWeTrust.csproj.GenerateResource.Cache
+c:\users\juegest\documents\visual studio 2015\Projects\InGodWeTrust\InGodWeTrust\obj\Debug\InGodWeTrust.exe
+c:\users\juegest\documents\visual studio 2015\Projects\InGodWeTrust\InGodWeTrust\obj\Debug\InGodWeTrust.pdb

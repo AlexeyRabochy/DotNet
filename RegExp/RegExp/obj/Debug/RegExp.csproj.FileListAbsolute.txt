@@ -1,0 +1,6 @@
+c:\users\juegest\documents\visual studio 2015\Projects\RegExp\RegExp\bin\Debug\RegExp.exe.config
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\RegExp\RegExp\bin\Debug\RegExp.exe
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\RegExp\RegExp\bin\Debug\RegExp.pdb
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\RegExp\RegExp\obj\Debug\RegExp.csprojResolveAssemblyReference.cache
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\RegExp\RegExp\obj\Debug\RegExp.exe
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\RegExp\RegExp\obj\Debug\RegExp.pdb

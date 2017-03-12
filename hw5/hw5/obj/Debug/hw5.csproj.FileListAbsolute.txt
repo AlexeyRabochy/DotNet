@@ -1,0 +1,18 @@
+C:\Users\juegest\Documents\hw5\hw5\bin\Debug\hw5.exe.config
+C:\Users\juegest\Documents\hw5\hw5\bin\Debug\hw5.exe
+C:\Users\juegest\Documents\hw5\hw5\bin\Debug\hw5.pdb
+C:\Users\juegest\Documents\hw5\hw5\obj\Debug\hw5.csprojResolveAssemblyReference.cache
+C:\Users\juegest\Documents\hw5\hw5\obj\Debug\hw5.ExamForm.resources
+C:\Users\juegest\Documents\hw5\hw5\obj\Debug\hw5.Properties.Resources.resources
+C:\Users\juegest\Documents\hw5\hw5\obj\Debug\hw5.csproj.GenerateResource.Cache
+C:\Users\juegest\Documents\hw5\hw5\obj\Debug\hw5.exe
+C:\Users\juegest\Documents\hw5\hw5\obj\Debug\hw5.pdb
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\hw5\hw5\bin\Debug\hw5.exe.config
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\hw5\hw5\obj\Debug\hw5.exe
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\hw5\hw5\obj\Debug\hw5.pdb
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\hw5\hw5\bin\Debug\hw5.exe
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\hw5\hw5\bin\Debug\hw5.pdb
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\hw5\hw5\obj\Debug\hw5.csprojResolveAssemblyReference.cache
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\hw5\hw5\obj\Debug\hw5.ExamForm.resources
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\hw5\hw5\obj\Debug\hw5.Properties.Resources.resources
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\hw5\hw5\obj\Debug\hw5.csproj.GenerateResource.Cache

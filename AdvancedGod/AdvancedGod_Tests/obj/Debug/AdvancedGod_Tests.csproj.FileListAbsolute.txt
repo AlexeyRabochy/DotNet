@@ -1,0 +1,8 @@
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\AdvancedGod\AdvancedGod_Tests\bin\Debug\AdvancedGod_Tests.dll
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\AdvancedGod\AdvancedGod_Tests\bin\Debug\AdvancedGod_Tests.pdb
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\AdvancedGod\AdvancedGod_Tests\bin\Debug\AdvancedGod.exe
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\AdvancedGod\AdvancedGod_Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\AdvancedGod\AdvancedGod_Tests\bin\Debug\AdvancedGod.pdb
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\AdvancedGod\AdvancedGod_Tests\obj\Debug\AdvancedGod_Tests.csprojResolveAssemblyReference.cache
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\AdvancedGod\AdvancedGod_Tests\obj\Debug\AdvancedGod_Tests.dll
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\AdvancedGod\AdvancedGod_Tests\obj\Debug\AdvancedGod_Tests.pdb

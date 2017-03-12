@@ -1,0 +1,8 @@
+c:\users\juegest\documents\visual studio 2015\Projects\AdvancedGod\AdvancedGod\bin\Debug\AdvancedGod.exe.config
+c:\users\juegest\documents\visual studio 2015\Projects\AdvancedGod\AdvancedGod\bin\Debug\AdvancedGod.exe
+c:\users\juegest\documents\visual studio 2015\Projects\AdvancedGod\AdvancedGod\bin\Debug\AdvancedGod.pdb
+c:\users\juegest\documents\visual studio 2015\Projects\AdvancedGod\AdvancedGod\obj\Debug\AdvancedGod.csprojResolveAssemblyReference.cache
+c:\users\juegest\documents\visual studio 2015\Projects\AdvancedGod\AdvancedGod\obj\Debug\AdvancedGod.Properties.Resources.resources
+c:\users\juegest\documents\visual studio 2015\Projects\AdvancedGod\AdvancedGod\obj\Debug\AdvancedGod.csproj.GenerateResource.Cache
+c:\users\juegest\documents\visual studio 2015\Projects\AdvancedGod\AdvancedGod\obj\Debug\AdvancedGod.exe
+c:\users\juegest\documents\visual studio 2015\Projects\AdvancedGod\AdvancedGod\obj\Debug\AdvancedGod.pdb
