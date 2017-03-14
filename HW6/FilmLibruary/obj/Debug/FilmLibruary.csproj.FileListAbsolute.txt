@@ -1,0 +1,19 @@
+C:\Users\juegest\Documents\HW6\FilmLibruary\bin\Debug\FilmLibruary.exe.config
+C:\Users\juegest\Documents\HW6\FilmLibruary\bin\Debug\FilmLibruary.exe
+C:\Users\juegest\Documents\HW6\FilmLibruary\bin\Debug\FilmLibruary.pdb
+C:\Users\juegest\Documents\HW6\FilmLibruary\obj\Debug\FilmLibruary.csprojResolveAssemblyReference.cache
+C:\Users\juegest\Documents\HW6\FilmLibruary\obj\Debug\FilmLibruary.Views.AboutView.resources
+C:\Users\juegest\Documents\HW6\FilmLibruary\obj\Debug\FilmLibruary.Views.EditFilmView.resources
+C:\Users\juegest\Documents\HW6\FilmLibruary\obj\Debug\FilmLibruary.Views.FindFilmView.resources
+C:\Users\juegest\Documents\HW6\FilmLibruary\obj\Debug\FilmLibruary.Views.LibraryView.resources
+C:\Users\juegest\Documents\HW6\FilmLibruary\obj\Debug\FilmLibruary.Properties.Resources.resources
+C:\Users\juegest\Documents\HW6\FilmLibruary\obj\Debug\FilmLibruary.Views.YearTextBox.resources
+C:\Users\juegest\Documents\HW6\FilmLibruary\obj\Debug\FilmLibruary.csproj.GenerateResource.Cache
+C:\Users\juegest\Documents\HW6\FilmLibruary\obj\Debug\FilmLibruary.exe
+C:\Users\juegest\Documents\HW6\FilmLibruary\obj\Debug\FilmLibruary.pdb
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\HW6\FilmLibruary\bin\Debug\FilmLibruary.exe.config
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\HW6\FilmLibruary\obj\Debug\FilmLibruary.exe
+C:\Users\juegest\Documents\Visual Studio 2015\Projects\HW6\FilmLibruary\obj\Debug\FilmLibruary.pdb
+C:\Users\juegest\Documents\DOTNET\HW6\FilmLibruary\bin\Debug\FilmLibruary.exe.config
+C:\Users\juegest\Documents\DOTNET\HW6\FilmLibruary\obj\Debug\FilmLibruary.exe
+C:\Users\juegest\Documents\DOTNET\HW6\FilmLibruary\obj\Debug\FilmLibruary.pdb
