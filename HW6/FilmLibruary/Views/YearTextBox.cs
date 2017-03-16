@@ -23,7 +23,7 @@ namespace FilmLibrary.Views
         {
             if (InternalTextBox.Text == string.Empty)
             {
-                return true;
+                return false;
             }
             
             bool isDigits = InternalTextBox.Text.All(char.IsDigit);

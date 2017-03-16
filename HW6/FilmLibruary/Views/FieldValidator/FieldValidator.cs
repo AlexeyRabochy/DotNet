@@ -8,9 +8,9 @@ namespace FilmLibrary.Views.FieldValidator
     {
         private readonly string _badChars = "~!@#$%^&abcdefghijklmnopqrstuvxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-        public bool IsStringValid(string str)
+        public bool IsStringValid(string str, bool canBeEmpty)
         {
-            return str != null && _badChars.All(c => !str.Contains(c));
+            return str != null && (canBeEmpty || str != "") && _badChars.All(c => !str.Contains(c));
         }
 
         public bool IsYearValid(string strYear)

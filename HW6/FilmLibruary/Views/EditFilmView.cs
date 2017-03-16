@@ -70,26 +70,40 @@ namespace FilmLibrary.Views
         #region Validation
         private bool ValidateForm()
         {
-            bool isValid = true;
-            if (!_validator.IsStringValid(FilmNameTextBox.Text))
+            var isValid = true;
+            if (!_validator.IsStringValid(FilmNameTextBox.Text, false))
             {
-                EditFilmErrorProvider.SetError(FilmNameTextBox, "Wrong chars");
+                EditFilmErrorProvider.SetError(FilmNameTextBox,
+                    FilmNameTextBox.Text == "" ? "Name can't be empty." : "Wrong chars");
                 FilmNameTextBox.Focus();
-                isValid = false;
-            }
-            if (!editYearTextBox.IsYearValid())
-            {
-                isValid = false;
-            }
-            if (!_validator.IsStringValid(ProducerTextBox.Text))
-            {
-                EditFilmErrorProvider.SetError(ProducerTextBox, "Incorrect year");
-                ProducerTextBox.Focus();
                 isValid = false;
             }
             else
             {
                 EditFilmErrorProvider.SetError(FilmNameTextBox, String.Empty);
+            }
+
+            if (!editYearTextBox.IsYearValid())
+            {
+                EditFilmErrorProvider.SetError(editYearTextBox, "Incorrect year");
+                ProducerTextBox.Focus();
+                isValid = false;
+            }
+            else
+            {
+                EditFilmErrorProvider.SetError(editYearTextBox, String.Empty);
+            }
+
+            if (!_validator.IsStringValid(ProducerTextBox.Text, false))
+            {
+                EditFilmErrorProvider.SetError(ProducerTextBox,
+                    FilmNameTextBox.Text == "" ? "Name can't be empty." : "Wrong chars");
+                ProducerTextBox.Focus();
+                isValid = false;
+            }
+            else
+            {
+                EditFilmErrorProvider.SetError(ProducerTextBox, String.Empty);
             }
             return isValid;
         }

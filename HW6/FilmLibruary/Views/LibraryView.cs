@@ -25,6 +25,8 @@ namespace FilmLibrary.Views
 
         private ListSorter _sorter = new ListSorter();
 
+        private bool dbLoaded;
+
         public LibraryView()
         {
             InitializeComponent();
@@ -42,7 +44,8 @@ namespace FilmLibrary.Views
             Action(() =>
             {
                 MessageBox.Show(Resources.CantOpenFile);
-                ChangeFormState(FilmLibraryStates.DbNotOpen);
+                //FilmsGrid.DataSource = null;
+                ChangeFormState(FilmLibraryStates.DbOpenEnded);
             },this);
         }
 
@@ -259,7 +262,7 @@ namespace FilmLibrary.Views
                     aboutToolStripMenuItem.Enabled = true;
                     break;
                 case FilmLibraryStates.DbOpenEnded:
-                    FormStateLabel.Text = String.Format("Film DB was opened! {0} films was founded", FilmsGrid.Rows.Count);
+                    FormStateLabel.Text = $"Film DB was opened! {FilmsGrid.Rows.Count} films was founded";
                     exitToolStripMenuItem.Enabled = true;
                     openDBToolStripMenuItem.Enabled = true;
                     editFilmToolStripMenuItem.Enabled = true;
@@ -297,7 +300,7 @@ namespace FilmLibrary.Views
                     aboutToolStripMenuItem.Enabled = true;
                     break;
                 case FilmLibraryStates.SearchEnded:
-                    FormStateLabel.Text = String.Format("Search was ended! {0} films was founded", FilmsGrid.Rows.Count);
+                    FormStateLabel.Text = $"Search was ended! {FilmsGrid.Rows.Count} films was founded";
                     exitToolStripMenuItem.Enabled = true;
                     openDBToolStripMenuItem.Enabled = true;
                     editFilmToolStripMenuItem.Enabled = true;

@@ -10,7 +10,7 @@ namespace FilmLibrary.DbWorkers
     {
         private string _connectionString;
         //private string _connectionString = @"Data Source=(local);Initial Catalog=Films;Integrated Security=true";
-        private string _fileConnectionString =
+        private readonly string _fileConnectionString =
             //@"Data Source=(local);Database=Films;AttachDbFilename={0};Integrated Security=SSPI";
             @"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename={0};Integrated Security = True; Connect Timeout = 30";
 
@@ -27,8 +27,10 @@ namespace FilmLibrary.DbWorkers
                 connection.Open();
                 var command = new SqlCommand(query, connection);
                 var reader = command.ExecuteReader();
-
-                return reader.Cast<DbDataRecord>().ToList();   
+                var res = reader.Cast<DbDataRecord>().ToList();
+                connection.Close();
+                connection.Dispose();
+                return res;
             }
         }
     }

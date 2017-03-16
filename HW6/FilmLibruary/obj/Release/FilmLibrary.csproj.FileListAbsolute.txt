@@ -1,0 +1,13 @@
+C:\Code\DotNet\HW6\FilmLibruary\bin\Release\FilmLibrary.exe.config
+C:\Code\DotNet\HW6\FilmLibruary\bin\Release\FilmLibrary.exe
+C:\Code\DotNet\HW6\FilmLibruary\bin\Release\FilmLibrary.pdb
+C:\Code\DotNet\HW6\FilmLibruary\obj\Release\FilmLibrary.csprojResolveAssemblyReference.cache
+C:\Code\DotNet\HW6\FilmLibruary\obj\Release\FilmLibrary.Views.AboutView.resources
+C:\Code\DotNet\HW6\FilmLibruary\obj\Release\FilmLibrary.Views.EditFilmView.resources
+C:\Code\DotNet\HW6\FilmLibruary\obj\Release\FilmLibrary.Views.FindFilmView.resources
+C:\Code\DotNet\HW6\FilmLibruary\obj\Release\FilmLibrary.Views.LibraryView.resources
+C:\Code\DotNet\HW6\FilmLibruary\obj\Release\FilmLibrary.Properties.Resources.resources
+C:\Code\DotNet\HW6\FilmLibruary\obj\Release\FilmLibrary.Views.YearTextBox.resources
+C:\Code\DotNet\HW6\FilmLibruary\obj\Release\FilmLibrary.csproj.GenerateResource.Cache
+C:\Code\DotNet\HW6\FilmLibruary\obj\Release\FilmLibrary.exe
+C:\Code\DotNet\HW6\FilmLibruary\obj\Release\FilmLibrary.pdb

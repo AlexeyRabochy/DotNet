@@ -48,7 +48,7 @@ namespace FilmLibrary.Views
         private bool ValidateForm()
         {
             var isValid = true;
-            if (!_validator.IsStringValid(FilmNameTextBox.Text))
+            if (!_validator.IsStringValid(FilmNameTextBox.Text, true))
             {
                 FindErrorProvider.SetError(FilmNameTextBox, "String must be russian and not contains special simbols");
                 FilmNameTextBox.Focus();
@@ -62,19 +62,19 @@ namespace FilmLibrary.Views
             {
                 isValid = false;
             }
-            if (!_validator.IsStringValid(CountryTextBox.Text))
+            if (!_validator.IsStringValid(CountryTextBox.Text, true))
             {
                 FindErrorProvider.SetError(CountryTextBox, "String must be russian and not contains special simbols");
                 CountryTextBox.Focus();
                 isValid = false;
             }
-            if (!_validator.IsStringValid(ProducerTextBox.Text))
+            if (!_validator.IsStringValid(ProducerTextBox.Text, true))
             {
                 ProducerTextBox.Focus();
                 FindErrorProvider.SetError(ProducerTextBox, "String must be russian and not contains special simbols");
                 isValid = false;
             }
-            if (!_validator.IsStringValid(MainActorsTextBox.Text))
+            if (!_validator.IsStringValid(MainActorsTextBox.Text, true))
             {
                 FindErrorProvider.SetError(MainActorsTextBox, "String must be russian and not contains special simbols");
                 MainActorsTextBox.Focus();
